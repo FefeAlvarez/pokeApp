@@ -4,7 +4,7 @@ import type { NextPage } from 'next'
 const HomePage: NextPage = () => {
   return (
     <>
-      <Button>Hola Mundo!</Button>
+      <Button color='gradient'>Hola Mundo!</Button>
     </>
   )
 }
